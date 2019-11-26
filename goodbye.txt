@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Bye from master version
+=======
+me: See ya later.
+Bye from goodbye version
+>>>>>>> goodbye
